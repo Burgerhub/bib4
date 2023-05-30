@@ -1,0 +1,6 @@
+E:\проекты для змк\ClassLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\проекты для змк\ClassLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\проекты для змк\ClassLibrary1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\проекты для змк\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\проекты для змк\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\проекты для змк\ClassLibrary1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
